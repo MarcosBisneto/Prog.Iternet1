@@ -24,9 +24,9 @@ REPOSITÓRIO DESTINADO PARA DISCIPLINA DE PROGRAMAÇÃO PARA INTERNET
 * Postgresql;
 
  # Áreas de Interesse:
- 
- * Gestão de Tecnologia da Informação(Gerenciamento de Projetos em gerais);
- * Criaçao de Projetos tecnologicos; 
+
+ * Gestão de Tecnologia da Informação;
+ * Criaçao e Gerencia de Projetos tecnologicos; 
  * Business Intelligence;
  * Marketing Digital;
  * Engenharia de Software;
@@ -85,7 +85,6 @@ REPOSITÓRIO DESTINADO PARA DISCIPLINA DE PROGRAMAÇÃO PARA INTERNET
 
   - Monitor de Informatica - SEMEC
   - Analista e Suporte de Sistemas - Alma Viva;
-  - Auxiliar de Gerencia de Tecnologia e Midia - SCC Media Center;
+  - Auxiliar de Gerencia de Projetos Tecnologicos e Mídia - SCC Media Center;
   - Gerente de Marketing Digital (Restaurante Dell Toro, Monik Scarllet Personal Trainer);
-
-  
+  - Tecnico Intensivista de Enfermagem - Hospital Itacor;
