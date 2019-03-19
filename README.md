@@ -25,7 +25,7 @@ REPOSITÓRIO DESTINADO PARA DISCIPLINA DE PROGRAMAÇÃO PARA INTERNET
 
  # Áreas de Interesse:
 
- * Gestão de Tecnologia da Informação;
+ * Gestão de Tecnologia da Informação em Geral;
  * Criaçao e Gerencia de Projetos tecnologicos; 
  * Business Intelligence;
  * Marketing Digital;
