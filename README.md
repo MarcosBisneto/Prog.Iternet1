@@ -11,6 +11,7 @@ REPOSITÓRIO DESTINADO PARA DISCIPLINA DE PROGRAMAÇÃO PARA INTERNET
 
 * E-mail: marcosbisneto03@gmail.com
 * Telefone: (86) 99811-4842
+* Linkedin: https://www.linkedin.com/in/marcos-ferreira-bisneto-00a619123
 
 ## Habilidades
 
@@ -24,13 +25,16 @@ REPOSITÓRIO DESTINADO PARA DISCIPLINA DE PROGRAMAÇÃO PARA INTERNET
 
  # Áreas de Interesse:
  
- * Gestão e Liderança;
  * Gestão de Tecnologia da Informação(Gerenciamento de Projetos em gerais);
+ * Criaçao de Projetos tecnologicos; 
  * Business Intelligence;
  * Marketing Digital;
  * Engenharia de Software;
  * Inteligência Artificial;
- * Front-End: Desenvolvedor mobile;
+ * Desenvolvedor mobile;
+ * Gestão e Liderança;
+ * Viajens;
+ * Idiomas;
  
 ## Projetos:
 
@@ -44,22 +48,14 @@ REPOSITÓRIO DESTINADO PARA DISCIPLINA DE PROGRAMAÇÃO PARA INTERNET
   Desenvolver soluções educacionais contra a divisão digital.
 
  
- ### GesTIC - Gestão e Automação de Empresas
+ ### GesTIC - Gestão e Automação de processos empresariais com Tecnologia.
  ---
-  Projeto que 
+  Automação de processos com Tecnologia. 
  
  *Orientadores :* Prof. Inara Erice e Raulino. 
  
  #### Objetivo
-  Criar um aplicativo que gere um relatório de diagnóstico a partir da captura e análise das impressões digitais do paciente.
-  
-  #### Ferramentas e bibliotecas utilizadas
-  
-  * Tensorflow - Para reconhecimento dos padrões das digitais;
-  * Opencv -  Processamento das imagens;
-  * Sensor biométrico para Arduino - Captura das impressões digitais;
-  * Android - Onde o aplicativo será desenvolvido.
-
+  O objetivo principal desse projeto é apresentar melhorias para empresas através da tecnologia.
 
  ### Dermatoglifia como meio de auxílio no diagnóstico de doenças.
  ---
@@ -84,4 +80,12 @@ REPOSITÓRIO DESTINADO PARA DISCIPLINA DE PROGRAMAÇÃO PARA INTERNET
   - Artigo Aprovado - Modalidade pôster no CONGRESSO NORTE-NORDESTE DE PESQUISA E INOVAÇÃO - CONNEPI - 2018;
   - Artigo Aprovado - Modalidade Oral no ENCONTRO INTERNACIONAL DE JOVENS INVESTIGADORES - JOIN - 2017;
   - Melhor Projeto - Plano de Ação - Mind Year CCI - USA - 2017;
+  
+  ## Experiencias Profissionais
+
+  - Monitor de Informatica - SEMEC
+  - Analista e Suporte de Sistemas - Alma Viva;
+  - Auxiliar de Gerencia de Tecnologia e Midia - SCC Media Center;
+  - Gerente de Marketing Digital (Restaurante Dell Toro, Monik Scarllet Personal Trainer);
+
   
