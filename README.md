@@ -88,3 +88,6 @@ REPOSITÓRIO DESTINADO PARA DISCIPLINA DE PROGRAMAÇÃO PARA INTERNET
   - Auxiliar de Gerencia de Projetos Tecnologicos e Mídia - SCC Media Center;
   - Gerente de Marketing Digital (Restaurante Dell Toro, Monik Scarllet Personal Trainer);
   - Tecnico Intensivista de Enfermagem - Hospital Itacor;
+
+## Projetos de ADS Concluidos: 
+https://github.com/MarcosBisneto/SchoolThings---Marcos-Boletim
